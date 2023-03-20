@@ -34,7 +34,7 @@
     },
     {
       "name": "phone_cant_be_empty",
-      "value": "Phone can\\'t be empty"
+      "value": "Phone can\'t be empty"
     },
     {
       "name": "enter_valid_phone",
@@ -58,7 +58,7 @@
     },
     {
       "name": "email_cant_empty",
-      "value": "Email can\\'t be empty"
+      "value": "Email can\'t be empty"
     },
     {
       "name": "ente_valid_user_id",
@@ -78,7 +78,7 @@
     },
     {
       "name": "don_t_have_an_account",
-      "value": "Don\\'t have an account?"
+      "value": "Don\'t have an account?"
     },
     {
       "name": "register",
@@ -368,47 +368,47 @@
     },
     {
       "name": "self_service",
-      "value": "Self\\nService"
+      "value": "Self\nService"
     },
     {
       "name": "leave_requests",
-      "value": "Leave\\nrequest"
+      "value": "Leave\nrequest"
     },
     {
       "name": "ticket_requests",
-      "value": "Ticket\\nrequest"
+      "value": "Ticket\nrequest"
     },
     {
       "name": "general_requests",
-      "value": "General\\nrequest"
+      "value": "General\nrequest"
     },
     {
       "name": "loan_requests",
-      "value": "Loan\\nrequest"
+      "value": "Loan\nrequest"
     },
     {
       "name": "eos_requests",
-      "value": "EOS\\nrequest"
+      "value": "EOS\nrequest"
     },
     {
       "name": "business_trip_requests",
-      "value": "Business\\ntrip"
+      "value": "Business\ntrip"
     },
     {
       "name": "excuse_requests",
-      "value": "Excuse\\nrequest"
+      "value": "Excuse\nrequest"
     },
     {
       "name": "overtime_requests",
-      "value": "Overtime\\nrequest"
+      "value": "Overtime\nrequest"
     },
     {
       "name": "overtime_requests_",
-      "value": "Overtime\\nrequest"
+      "value": "Overtime\nrequest"
     },
     {
       "name": "training_requests",
-      "value": "Training\\nrequest"
+      "value": "Training\nrequest"
     },
     {
       "name": "leave_request",
@@ -472,15 +472,15 @@
     },
     {
       "name": "leave_Encashment",
-      "value": "Leave\\nencashment"
+      "value": "Leave\nencashment"
     },
     {
       "name": "leave_planning",
-      "value": "Leave\\nplanning"
+      "value": "Leave\nplanning"
     },
     {
       "name": "ticket_Encashment",
-      "value": "Ticket\\nencashment"
+      "value": "Ticket\nencashment"
     },
     {
       "name": "absence",
@@ -492,7 +492,7 @@
     },
     {
       "name": "periodic_excuse",
-      "value": "Periodic\\nexcuse"
+      "value": "Periodic\nexcuse"
     },
     {
       "name": "training",
@@ -508,15 +508,15 @@
     },
     {
       "name": "letter",
-      "value": "Letter\\nrequest"
+      "value": "Letter\nrequest"
     },
     {
       "name": "medical",
-      "value": "Medical\\nrequest"
+      "value": "Medical\nrequest"
     },
     {
       "name": "grievance",
-      "value": "Grievance\\nrequest"
+      "value": "Grievance\nrequest"
     },
     {
       "name": "leave_request_description",
@@ -564,7 +564,7 @@
     },
     {
       "name": "attendance_log",
-      "value": "Attendance\\nLog"
+      "value": "Attendance\nLog"
     },
     {
       "name": "profile",
@@ -1704,7 +1704,7 @@
     },
     {
       "name": "couldnt_fetch_file",
-      "value": "couldn\\'t fetch file"
+      "value": "couldn\'t fetch file"
     },
     {
       "name": "replace",
@@ -2184,7 +2184,7 @@
     },
     {
       "name": "mng_disciplinary_request",
-      "value": "Disciplinary\\nrequest"
+      "value": "Disciplinary\nrequest"
     },
     {
       "name": "disciplinary_request",
@@ -2408,7 +2408,7 @@
     },
     {
       "name": "cant_detect_location",
-      "value": "Can\\'t detect your location please try again"
+      "value": "Can\'t detect your location please try again"
     },
     {
       "name": "failed_to_connect",
@@ -2420,7 +2420,7 @@
     },
     {
       "name": "accept_permissions",
-      "value": "You have to accept to enjoy all app\\'s services!"
+      "value": "You have to accept to enjoy all app\'s services!"
     },
     {
       "name": "enable_gps",
@@ -2496,11 +2496,11 @@
     },
     {
       "name": "absence_request",
-      "value": "Absence\\nrequest"
+      "value": "Absence\nrequest"
     },
     {
       "name": "ot_request",
-      "value": "Overtime\\nrequest"
+      "value": "Overtime\nrequest"
     },
     {
       "name": "periodic_excuse_",
@@ -2520,7 +2520,7 @@
     },
     {
       "name": "transportation_req",
-      "value": "Transportation\\nrequest"
+      "value": "Transportation\nrequest"
     },
     {
       "name": "filter",
