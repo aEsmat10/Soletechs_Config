@@ -1,5 +1,3187 @@
 {
   "Strings": [
-   
+    {
+      "name": "app_name",
+      "value": "Dynamics ESS 365"
+    },
+    {
+      "name": "full_name",
+      "value": "الاسم الكامل"
+    },
+    {
+      "name": "e_mail",
+      "value": "اسم المستخدم"
+    },
+    {
+      "name": "mobile",
+      "value": "الجوال"
+    },
+    {
+      "name": "city",
+      "value": "المدينة"
+    },
+    {
+      "name": "password",
+      "value": "كلمة السر"
+    },
+    {
+      "name": "confirm_password",
+      "value": "تأكيد كلمة السر"
+    },
+    {
+      "name": "register_as_individual",
+      "value": "تسجيل"
+    },
+    {
+      "name": "phone_cant_be_empty",
+      "value": "يجب تسجيل الهاتف"
+    },
+    {
+      "name": "enter_valid_phone",
+      "value": "يجب ادخال رقم الهاتف بطريقة صحيحة"
+    },
+    {
+      "name": "password_too_short",
+      "value": "كلمة السر غير مناسبة"
+    },
+    {
+      "name": "password_not_matching",
+      "value": "كلمة السر غير متوافقة"
+    },
+    {
+      "name": "reg_success",
+      "value": "تم التسجيل بنجاح"
+    },
+    {
+      "name": "conf_email",
+      "value": "يرجى تأكيد البريد الإلكترونى لتسجيل الدخول"
+    },
+    {
+      "name": "email_cant_empty",
+      "value": "يجب ادخال البريد الإلكترونى"
+    },
+    {
+      "name": "ente_valid_user_id",
+      "value": "يجب إدخال رقم مستخدم مسجل"
+    },
+    {
+      "name": "ente_valid_email",
+      "value": "يجب ادخال بريد الكترونى مسجل"
+    },
+    {
+      "name": "forgot_your_password_",
+      "value": "نسيت كلمة السر ؟"
+    },
+    {
+      "name": "log_in",
+      "value": "تسجيل الدخول"
+    },
+    {
+      "name": "don_t_have_an_account",
+      "value": "هل لديك حساب ؟"
+    },
+    {
+      "name": "register",
+      "value": "تسجيل"
+    },
+    {
+      "name": "or_connect_with",
+      "value": "او الاتصال ب"
+    },
+    {
+      "name": "enter_password",
+      "value": "يرجى ادخال كلمة السر"
+    },
+    {
+      "name": "invalid_password",
+      "value": "يرجي ادخال كلمة سر صحيحة"
+    },
+    {
+      "name": "verify_account_first",
+      "value": "يرجى التحقق من كلمة السر اولا"
+    },
+    {
+      "name": "email_sent",
+      "value": "تم إرسال الايميل"
+    },
+    {
+      "name": "use_link_reset_password",
+      "value": "يرجى الضغط على الرابط الذى تم إرسالة بايميلك لإعاده تهيئة كلمة السر"
+    },
+    {
+      "name": "go_to_home",
+      "value": "أذهب لتسجيل الدخول"
+    },
+    {
+      "name": "space"
+    },
+    {
+      "name": "enter_mail_send_link_reset",
+      "value": "يرجي ادخال البريد الإلكترونى لإرسال كلمة السر"
+    },
+    {
+      "name": "send",
+      "value": "إرسال"
+    },
+    {
+      "name": "somthing_went_Wrong",
+      "value": "حدث خطاء داخلى يرجى اعادة المحاولة"
+    },
+    {
+      "name": "ok",
+      "value": "موافق"
+    },
+    {
+      "name": "cancel",
+      "value": "الغاء"
+    },
+    {
+      "name": "validFrom",
+      "value": "من تاريخ"
+    },
+    {
+      "name": "validTo",
+      "value": "إلى تاريخ"
+    },
+    {
+      "name": "time_am",
+      "value": "ص"
+    },
+    {
+      "name": "time_pm",
+      "value": "م"
+    },
+    {
+      "name": "settings",
+      "value": "الإعدادت"
+    },
+    {
+      "name": "no_connection",
+      "value": "تعذر الاتصال بالإنترنت"
+    },
+    {
+      "name": "enable_data_connection_to_proceed",
+      "value": "تعذر الاتصال بالإنترنت"
+    },
+    {
+      "name": "email",
+      "value": "البريد الإلكترونى"
+    },
+    {
+      "name": "server_configuration",
+      "value": "اعدادات الشركة"
+    },
+    {
+      "name": "server_configuration_no_line",
+      "value": "اعدادات الشركة"
+    },
+    {
+      "name": "save",
+      "value": "حفظ"
+    },
+    {
+      "name": "test_server",
+      "value": "اختبار الخدمة"
+    },
+    {
+      "name": "company_id",
+      "value": "الشركة"
+    },
+    {
+      "name": "server_test_successful",
+      "value": "تم اختبار الخدمة بنجاح ، يرجى حفظ الإعدادات لتسجيل الدخول"
+    },
+    {
+      "name": "created_",
+      "value": "تم إنشاء:"
+    },
+    {
+      "name": "create",
+      "value": "إنشاء"
+    },
+    {
+      "name": "assigned",
+      "value": "إنشاء"
+    },
+    {
+      "name": "WorkItem",
+      "value": "عنصر العمل"
+    },
+    {
+      "name": "date",
+      "value": "00/00/0000"
+    },
+    {
+      "name": "dependents",
+      "value": "المعالين"
+    },
+    {
+      "name": "pledge_en",
+      "value": "التعهد بالانجليزي"
+    },
+    {
+      "name": "pledge_ar",
+      "value": "التعهد بالعربي"
+    },
+    {
+      "name": "airlines",
+      "value": "الخطوط الجوية"
+    },
+    {
+      "name": "flight_no",
+      "value": "رقم الرحلة"
+    },
+    {
+      "name": "arrival_date",
+      "value": "تاريخ الوصول/المغادرة"
+    },
+    {
+      "name": "arrival_time",
+      "value": "ساعة الوصول/المغادرة"
+    },
+    {
+      "name": "vehicle_type",
+      "value": "نوع السيارة"
+    },
+    {
+      "name": "due_",
+      "value": "مستحقة:"
+    },
+    {
+      "name": "company_",
+      "value": "الشركة:"
+    },
+    {
+      "name": "type_",
+      "value": "النوع :"
+    },
+    {
+      "name": "none",
+      "value": "بدون"
+    },
+    {
+      "name": "noneVichle",
+      "value": "لاشئ"
+    },
+    {
+      "name": "from",
+      "value": "من :"
+    },
+    {
+      "name": "to",
+      "value": "الى"
+    },
+    {
+      "name": "writeComment",
+      "value": "ادخل تعليقك"
+    },
+    {
+      "name": "back",
+      "value": "رجوع"
+    },
+    {
+      "name": "enter_your_personnel_number",
+      "value": "ادخل رقمك الوظيفي"
+    },
+    {
+      "name": "enter_your_email",
+      "value": "ادخل البريد الإلكتروني"
+    },
+    {
+      "name": "reset_psw",
+      "value": "تغيير كلمة المرور"
+    },
+    {
+      "name": "reset_psw_by",
+      "value": "تغيير كلمة المرور عن طريق"
+    },
+    {
+      "name": "phone",
+      "value": "رقم الهاتف"
+    },
+    {
+      "name": "enter_your_phone_number",
+      "value": "رقم الهاتف"
+    },
+    {
+      "name": "next",
+      "value": "التالي"
+    },
+    {
+      "name": "otpCode",
+      "value": "OTP Code"
+    },
+    {
+      "name": "enterOtpCode",
+      "value": "ادخل كود الOTP"
+    },
+    {
+      "name": "main_info",
+      "value": "المعلومات الرئيسية"
+    },
+    {
+      "name": "position_details",
+      "value": "تفاصيل المنصب"
+    },
+    {
+      "name": "benefits",
+      "value": "العقد و الراتب"
+    },
+    {
+      "name": "identifications",
+      "value": "الوثائق"
+    },
+    {
+      "name": "bank_details",
+      "value": "معلومات البنك"
+    },
+    {
+      "name": "dependent",
+      "value": "المعالين"
+    },
+    {
+      "name": "hello_blank_fragment",
+      "value": "Hello blank fragment"
+    },
+    {
+      "name": "notifications",
+      "value": "الإشعارات"
+    },
+    {
+      "name": "self_service",
+      "value": "الخدمات الذاتية"
+    },
+    {
+      "name": "leave_requests",
+      "value": "طلبات\\nالاجازات"
+    },
+    {
+      "name": "ticket_requests",
+      "value": "طلب\\nتذكرة"
+    },
+    {
+      "name": "general_requests",
+      "value": "طلب\\nعام"
+    },
+    {
+      "name": "loan_requests",
+      "value": "طلب\\nقرض"
+    },
+    {
+      "name": "eos_requests",
+      "value": "طلب نهاية\\nالخدمة"
+    },
+    {
+      "name": "business_trip_requests",
+      "value": "رحلة\\nعمل"
+    },
+    {
+      "name": "excuse_requests",
+      "value": "طلب\\nإستئذان"
+    },
+    {
+      "name": "overtime_requests",
+      "value": "طلبات الاجر الإضافى"
+    },
+    {
+      "name": "overtime_requests_",
+      "value": "طلبات الاجر الإضافى"
+    },
+    {
+      "name": "training_requests",
+      "value": "طلب\\nتدريب"
+    },
+    {
+      "name": "leave_request",
+      "value": "طلب إجازة"
+    },
+    {
+      "name": "leave_return",
+      "value": "العودة من الإجازة"
+    },
+    {
+      "name": "leave_request_title",
+      "value": "الإجازات"
+    },
+    {
+      "name": "ticket_request",
+      "value": "طلبات التذاكر"
+    },
+    {
+      "name": "general_request",
+      "value": "طلب عام"
+    },
+    {
+      "name": "loan_request",
+      "value": "طلبات القروض"
+    },
+    {
+      "name": "eos_request",
+      "value": "طلبات نهاية الخدمة"
+    },
+    {
+      "name": "business_trip_request",
+      "value": "طلب رحلة العمل"
+    },
+    {
+      "name": "excuse_request",
+      "value": "طلب استئذان"
+    },
+    {
+      "name": "overtime_request",
+      "value": "طلب أجر إضافى"
+    },
+    {
+      "name": "training_request",
+      "value": "طلبات التدريب"
+    },
+    {
+      "name": "excuse_overtime",
+      "value": "الاسئذنات والاجر الاضافى"
+    },
+    {
+      "name": "businessTrip_Training",
+      "value": "رحلات العمل والتدريب"
+    },
+    {
+      "name": "general_letters",
+      "value": "الطلبات العامة والخطابات"
+    },
+    {
+      "name": "eos_payments",
+      "value": "المدفوعات ونهاية الخدمة"
+    },
+    {
+      "name": "leave_Encashment",
+      "value": "طلب صرف\\nالإجازة"
+    },
+    {
+      "name": "leave_planning",
+      "value": "طلب تخطيط\\nالإجازة"
+    },
+    {
+      "name": "ticket_Encashment",
+      "value": "صرف\\nالتذاكر"
+    },
+    {
+      "name": "absence",
+      "value": "طلب غياب"
+    },
+    {
+      "name": "overtime",
+      "value": "طلبات العمل الإضافي"
+    },
+    {
+      "name": "periodic_excuse",
+      "value": "طلب استئذان\\nدوري"
+    },
+    {
+      "name": "training",
+      "value": "تدريب"
+    },
+    {
+      "name": "businessTrip",
+      "value": "رحلة عمل"
+    },
+    {
+      "name": "general",
+      "value": "طلب عام"
+    },
+    {
+      "name": "letter",
+      "value": "طلب\\nخطاب"
+    },
+    {
+      "name": "medical",
+      "value": "طلب تأمين\\nطبي"
+    },
+    {
+      "name": "grievance",
+      "value": "طلب\\nتظلم"
+    },
+    {
+      "name": "leave_request_description",
+      "value": "هذا النموذج يمكنك من طلب الإجازة السنوية والإجازات الاخري"
+    },
+    {
+      "name": "ticket_request_description",
+      "value": "هذا النموذج يمكنك من طلب التذاكر السنوية"
+    },
+    {
+      "name": "general_request_description",
+      "value": "هذا النموذج يمكنك من طلب الخطابات والطلبات الاخري المتنوعة"
+    },
+    {
+      "name": "disciplinary_request_description",
+      "value": "هذا النموذج يمكنك من طلب الجزاء لفريق العمل"
+    },
+    {
+      "name": "loan_request_description",
+      "value": "هذا النموذج يمكنك من طلب القروض والدفعات السنوية المستحقة"
+    },
+    {
+      "name": "eos_request_description",
+      "value": "هذا النموذج يمكنك من طلب نهاية عقد او الإستقالة"
+    },
+    {
+      "name": "business_trip_request_description",
+      "value": "هذا النموذج يمكنك من طلب رحلات الإنتداب ومهمات العمل"
+    },
+    {
+      "name": "excuse_request_description",
+      "value": "هذا النموذج يمكنك من طلب الإستئذنات الخاصة بالتأخيرات والأنصراف مبكرا واثناء فترة الدوام"
+    },
+    {
+      "name": "overtime_request_description",
+      "value": "هذا النموذج يمكنك من طلب الاجر الإضافى طبقا للائحة"
+    },
+    {
+      "name": "training_request_description",
+      "value": "هذا النموذج يمكنك من طلب حضور الدورات التدريبية"
+    },
+    {
+      "name": "payslip",
+      "value": "قسيمة الراتب"
+    },
+    {
+      "name": "attendance_log",
+      "value": "سجل الحضور"
+    },
+    {
+      "name": "home",
+      "value": "الرئيسية"
+    },
+    {
+      "name": "profile",
+      "value": "الملف الشخصى"
+    },
+    {
+      "name": "approvals",
+      "value": "الموافقات"
+    },
+    {
+      "name": "start_shift",
+      "value": "تسجيل الدخول"
+    },
+    {
+      "name": "end_shift",
+      "value": "تسجيل الخروج"
+    },
+    {
+      "name": "clock_in",
+      "value": "وقت تسجيل الدخول"
+    },
+    {
+      "name": "clock_out",
+      "value": "وقت تسجيل الخروج"
+    },
+    {
+      "name": "attendance_title",
+      "value": "الحضور و الإنصراف"
+    },
+    {
+      "name": "DailyTotalWorkHours",
+      "value": "إجمالي ساعات العمل اليومية"
+    },
+    {
+      "name": "home_location",
+      "value": "المنزل"
+    },
+    {
+      "name": "project_location",
+      "value": "مشروع"
+    },
+    {
+      "name": "office_location",
+      "value": "مكتب"
+    },
+    {
+      "name": "customer_location",
+      "value": "عميل"
+    },
+    {
+      "name": "retail_location",
+      "value": "قناة البيع بالتجزئة"
+    },
+    {
+      "name": "vendor_location",
+      "value": "مورد"
+    },
+    {
+      "name": "cost_location",
+      "value": "مركز التكلفة"
+    },
+    {
+      "name": "business_location",
+      "value": "وحدة عمل"
+    },
+    {
+      "name": "select_location",
+      "value": "اختر الموقع"
+    },
+    {
+      "name": "company_docs",
+      "value": "مستندات الشركة"
+    },
+    {
+      "name": "self_services",
+      "value": "الخدمات الذاتية"
+    },
+    {
+      "name": "requests_approval",
+      "value": "الطلبات المقبولة"
+    },
+    {
+      "name": "inquiries",
+      "value": "الإستعلامات"
+    },
+    {
+      "name": "add",
+      "value": "إضافة"
+    },
+    {
+      "name": "check_in_permission",
+      "value": "من فضلك سجل خروجك اولا"
+    },
+    {
+      "name": "check_out_permission",
+      "value": "من فضلك سجل دخولك اولا"
+    },
+    {
+      "name": "startCheckIn",
+      "value": "تسجيل الدخول"
+    },
+    {
+      "name": "StartCheckOut",
+      "value": "تسجيل الخروج"
+    },
+    {
+      "name": "TimeCheckIn",
+      "value": "وقت تسجيل الدخول"
+    },
+    {
+      "name": "TimeCheckOut",
+      "value": "وقت تسجيل الخروج"
+    },
+    {
+      "name": "nameTitleOfHours",
+      "value": "إجمالي ساعات العمل"
+    },
+    {
+      "name": "nameTitleOfHoursDaily",
+      "value": "إجمالي ساعات العمل اليومية"
+    },
+    {
+      "name": "nameTotalHours",
+      "value": "إجمالي عدد الساعات"
+    },
+    {
+      "name": "todayshifts",
+      "value": "سجل حضور اليوم"
+    },
+    {
+      "name": "HistoryDailyWorkHours",
+      "value": "سجل ساعات العمل"
+    },
+    {
+      "name": "DetailsDailyWorkHours",
+      "value": "تفاصيل ساعات العمل"
+    },
+    {
+      "name": "DetailsDailyWorkHoursDaily",
+      "value": "تفاصيل ساعات العمل اليومية"
+    },
+    {
+      "name": "AttendanceLog",
+      "u": "سجل الحضور"
+    },
+    {
+      "name": "msgSuccsCreatecheckIn",
+      "value": "تم تسجيل الدخول بنجاح"
+    },
+    {
+      "name": "msgSuccsCreatecheckOut",
+      "value": "تم تسجيل الخروج بنجاح"
+    },
+    {
+      "name": "locationaccsess",
+      "value": "السماح للتطبيق بالوصول إلى موقعك أثناء استخدام التطبيق"
+    },
+    {
+      "name": "messageLocationAccsess",
+      "value": "يستخدم التطبيق الموقع لتحديد اذا كان المستخدم داخل العنوان المطلوب او خارجه"
+    },
+    {
+      "name": "NotHaveLocation",
+      "value": "الموقع الحالى غير معرف بسجل المواقع المسموح لك بتسجيل الحضور منها ، يرجى التواصل مع مسئول النظام لتعريفها بالسجل"
+    },
+    {
+      "name": "TimeClockIn",
+      "value": "وقت الدخول"
+    },
+    {
+      "name": "TimeClockOut",
+      "value": "وقت الخروج"
+    },
+    {
+      "name": "ToDate",
+      "value": "إلي تاريخ"
+    },
+    {
+      "name": "FromDate",
+      "value": "من تاريخ"
+    },
+    {
+      "name": "checkoutClick",
+      "value": "لا يمكنك تسجيل الدخول يجب تسجيل الدخول اولا"
+    },
+    {
+      "name": "policy",
+      "value": "اللائحة"
+    },
+    {
+      "name": "workflow_history",
+      "value": "سجل سير العمل:-"
+    },
+    {
+      "name": "workflow_state",
+      "value": "حالة المستند"
+    },
+    {
+      "name": "assigned_to",
+      "value": "تم إرساله لـ"
+    },
+    {
+      "name": "month_year",
+      "value": "شهر\\سنة"
+    },
+    {
+      "name": "year",
+      "value": "السنة"
+    },
+    {
+      "name": "month",
+      "value": "الشهر"
+    },
+    {
+      "name": "new_year",
+      "value": "السنة"
+    },
+    {
+      "name": "new_month",
+      "value": "الشهر"
+    },
+    {
+      "name": "pay_group",
+      "value": "مجموعة الدفع"
+    },
+    {
+      "name": "pay_cycle",
+      "value": "دوره الدفع"
+    },
+    {
+      "name": "earnings",
+      "value": "إستحقاقات"
+    },
+    {
+      "name": "_00",
+      "value": "00"
+    },
+    {
+      "name": "total_earnings",
+      "value": "اجمالى الإستحقاقات:"
+    },
+    {
+      "name": "deductions",
+      "value": "الإستقطاعات"
+    },
+    {
+      "name": "total_deductions",
+      "value": "إجمالى الإستقطاعات:"
+    },
+    {
+      "name": "net_total_",
+      "value": "صافي القيمة:"
+    },
+    {
+      "name": "attendance__log",
+      "value": "سجل الحضور"
+    },
+    {
+      "name": "view_my_team",
+      "value": "عرض فريق العمل"
+    },
+    {
+      "name": "attendance_details",
+      "value": "تفاصيل الحضور"
+    },
+    {
+      "name": "date_",
+      "value": "تاريخ"
+    },
+    {
+      "name": "excuse_date",
+      "value": "تاريخ الإستئذان"
+    },
+    {
+      "name": "excuse_time",
+      "value": "وقت الإستئذان"
+    },
+    {
+      "name": "time",
+      "value": "الوقت"
+    },
+    {
+      "name": "event",
+      "value": "الحدث"
+    },
+    {
+      "name": "excuse",
+      "value": "استئذان"
+    },
+    {
+      "name": "loaned_items",
+      "value": "العهد"
+    },
+    {
+      "name": "days_left",
+      "value": "الايام المستنفذة"
+    },
+    {
+      "name": "details",
+      "value": "تفاصيل"
+    },
+    {
+      "name": "item",
+      "value": "العهدة"
+    },
+    {
+      "name": "items",
+      "value": "العهد"
+    },
+    {
+      "name": "description",
+      "value": "الوصف"
+    },
+    {
+      "name": "loaned",
+      "value": "تاريخ الإستعارة"
+    },
+    {
+      "name": "returned",
+      "value": "تم ارجاعه"
+    },
+    {
+      "name": "personal_number",
+      "value": "رقم العامل"
+    },
+    {
+      "name": "old_id",
+      "value": "الرقم الوظيفى القديم"
+    },
+    {
+      "name": "birth_date",
+      "value": "تاريخ الميلاد"
+    },
+    {
+      "name": "blood_type",
+      "value": "فصيلة الدم"
+    },
+    {
+      "name": "gender",
+      "value": "الجنس"
+    },
+    {
+      "name": "marital_status",
+      "value": "الحالة الإجتماعية"
+    },
+    {
+      "name": "joining_date",
+      "value": "تاريخ الإلتحاق"
+    },
+    {
+      "name": "probation_end_date",
+      "value": "تاريخ انتهاء الاختبار"
+    },
+    {
+      "name": "address",
+      "value": "بيانات العنوان"
+    },
+    {
+      "name": "position_id",
+      "value": "رقم المنصب"
+    },
+    {
+      "name": "position_description",
+      "value": "وصف المنصب"
+    },
+    {
+      "name": "title",
+      "value": "المسمي الوظيفى"
+    },
+    {
+      "name": "department",
+      "value": "القسم"
+    },
+    {
+      "name": "line_manager_name",
+      "value": "اسم المدير المباشر"
+    },
+    {
+      "name": "report_id",
+      "value": "رقم منصب المدير المباشر"
+    },
+    {
+      "name": "position_type",
+      "value": "نوع المنصب"
+    },
+    {
+      "name": "position_compensation",
+      "value": "تعويض المنصب"
+    },
+    {
+      "name": "job_id",
+      "value": "الوظيفة"
+    },
+    {
+      "name": "job_type",
+      "value": "نوع الوظيفة"
+    },
+    {
+      "name": "job_position",
+      "value": "مهام الوظيفة"
+    },
+    {
+      "name": "contract_start",
+      "value": "تاريخ بداية العقد"
+    },
+    {
+      "name": "contract_end",
+      "value": "تاريخ نهاية العقد"
+    },
+    {
+      "name": "grade",
+      "value": "الدرجة الوظيفية"
+    },
+    {
+      "name": "salary_scale",
+      "value": "المرتبة"
+    },
+    {
+      "name": "basic_salary",
+      "value": "الراتب الاساسي"
+    },
+    {
+      "name": "annual_leave",
+      "value": "الإجازة السنوية"
+    },
+    {
+      "name": "from_airport",
+      "value": "من مطار"
+    },
+    {
+      "name": "to_airport",
+      "value": "إلى مطار"
+    },
+    {
+      "name": "ticket_class",
+      "value": "درجة التذكرة"
+    },
+    {
+      "name": "tickets_rate",
+      "value": "تقييم التذاكر"
+    },
+    {
+      "name": "contract_type",
+      "value": "نوع العقد"
+    },
+    {
+      "name": "contract_period",
+      "value": "مدة العقدة"
+    },
+    {
+      "name": "grad_scale_id",
+      "value": "الفئة"
+    },
+    {
+      "name": "grad_level_id",
+      "value": "Grade Level ID"
+    },
+    {
+      "name": "allowance",
+      "value": "البدلات"
+    },
+    {
+      "name": "bank_code",
+      "value": "كود البنك"
+    },
+    {
+      "name": "bank_name",
+      "value": "اسم البنك"
+    },
+    {
+      "name": "bank_account_number",
+      "value": "رقم الحساب البنكي"
+    },
+    {
+      "name": "bank_iban",
+      "value": "حساب الايبان"
+    },
+    {
+      "name": "swift_code",
+      "value": "كود السويفت"
+    },
+    {
+      "name": "identification",
+      "value": "وثائق الموظف"
+    },
+    {
+      "name": "nature",
+      "value": "طبيعة"
+    },
+    {
+      "name": "from_date",
+      "value": "من تاريخ"
+    },
+    {
+      "name": "to_date",
+      "value": "إلي تاريخ"
+    },
+    {
+      "name": "type",
+      "value": "النوع"
+    },
+    {
+      "name": "select_type",
+      "value": "اختار نوع الطلب"
+    },
+    {
+      "name": "select_reason",
+      "value": "اختار سبب الطلب"
+    },
+    {
+      "name": "select_alternative",
+      "value": "اختار الموظف البديل"
+    },
+    {
+      "name": "select_course_type",
+      "value": "اختار نوع الدورة"
+    },
+    {
+      "name": "select_course_location",
+      "value": "اختار مكان الدورة"
+    },
+    {
+      "name": "leave_interval",
+      "value": "مدة الإجازة"
+    },
+    {
+      "name": "comment",
+      "value": "تعليق"
+    },
+    {
+      "name": "contact_info",
+      "value": "بيانات الإتصال"
+    },
+    {
+      "name": "destination",
+      "value": "الوجهة"
+    },
+    {
+      "name": "request_is_exit_entry",
+      "value": "طلب خروج وعودة"
+    },
+    {
+      "name": "exit_entry",
+      "value": "خروج وعودة"
+    },
+    {
+      "name": "requires_visa",
+      "value": "طلب فيزا"
+    },
+    {
+      "name": "request_requires_visa",
+      "value": "طلب فيزا"
+    },
+    {
+      "name": "is_in_advance",
+      "value": "راتب مقدم"
+    },
+    {
+      "name": "request_is_required_adcance",
+      "value": "طلب راتب مقدم"
+    },
+    {
+      "name": "reason",
+      "value": "كود السبب"
+    },
+    {
+      "name": "leave_group",
+      "value": "مجموعة الأجازات"
+    },
+    {
+      "name": "leave_type",
+      "value": "نوع الأجازة"
+    },
+    {
+      "name": "alternative_worker",
+      "value": "الموظف البديل"
+    },
+    {
+      "name": "number_of_years",
+      "value": "عدد السنين"
+    },
+    {
+      "name": "number_of_months",
+      "value": "عدد الشهور"
+    },
+    {
+      "name": "number_of_days",
+      "value": "عدد الايام"
+    },
+    {
+      "name": "days_before_travel_text",
+      "value": "الايام قبل السفر"
+    },
+    {
+      "name": "days_after_return_text",
+      "value": "الايام بعد العودة من السفر"
+    },
+    {
+      "name": "amount_before_travel",
+      "value": "القيمة قبل السفر"
+    },
+    {
+      "name": "amount_after_return",
+      "value": "القيمة بعد العودة من السفر"
+    },
+    {
+      "name": "number_of_hours",
+      "value": "عدد الساعات"
+    },
+    {
+      "name": "calculated_hrs",
+      "value": "الساعات المحسوبة"
+    },
+    {
+      "name": "calculated_units",
+      "value": "الوحدات المحسوبة"
+    },
+    {
+      "name": "new_leave_balance",
+      "value": "رصيد الأجازة الجديد"
+    },
+    {
+      "name": "balance",
+      "value": "الرصيد"
+    },
+    {
+      "name": "remaining_balance",
+      "value": "الرصيد المتبقي"
+    },
+    {
+      "name": "approve",
+      "value": "موافقة"
+    },
+    {
+      "name": "approve_v2",
+      "value": "(موافقة)"
+    },
+    {
+      "name": "reject_v2",
+      "value": "(رفض)"
+    },
+    {
+      "name": "order_id",
+      "value": "رقم الطلب"
+    },
+    {
+      "name": "reject",
+      "value": "رفض"
+    },
+    {
+      "name": "edit",
+      "value": "تعديل"
+    },
+    {
+      "name": "delete",
+      "value": "حذف"
+    },
+    {
+      "name": "submit",
+      "value": "ارسال"
+    },
+    {
+      "name": "upload_attachment",
+      "value": "المرفقات"
+    },
+    {
+      "name": "no_tickets",
+      "value": "عدد التذاكر"
+    },
+    {
+      "name": "tickets_balance",
+      "value": "رصيد التذاكر"
+    },
+    {
+      "name": "remaining_tickets",
+      "value": "رصيد التذاكر المتبقى"
+    },
+    {
+      "name": "please_select_valid_request_nature",
+      "value": "يرجى اختيار طبيعة الطلب"
+    },
+    {
+      "name": "please_select_valid_request_type",
+      "value": "يرجى اختيار نوع الطلب"
+    },
+    {
+      "name": "please_select_valid_date",
+      "value": "يرجى ادخال التاريخ بطريقة صحيحة"
+    },
+    {
+      "name": "please_enter_number_of_tickets",
+      "value": "يرجي إدخال عدد التذاكر"
+    },
+    {
+      "name": "please_enter_valid_destination",
+      "value": "يجب ادخال الوجهة"
+    },
+    {
+      "name": "please_enter_valid_contact_info",
+      "value": "يجب ادخال معلومات الإتصال"
+    },
+    {
+      "name": "credentials_saved_successfully",
+      "value": "تم حفظ بيانات الدخول"
+    },
+    {
+      "name": "registered_partnership",
+      "value": "تم التسجيل"
+    },
+    {
+      "name": "cohabiting",
+      "value": "غير معرف"
+    },
+    {
+      "name": "divorced",
+      "value": "مطلق"
+    },
+    {
+      "name": "widowed",
+      "value": "ارمل"
+    },
+    {
+      "name": "single",
+      "value": "اعزب"
+    },
+    {
+      "name": "married",
+      "value": "متزوج"
+    },
+    {
+      "name": "male",
+      "value": "ذكر"
+    },
+    {
+      "name": "female",
+      "value": "انثى"
+    },
+    {
+      "name": "none_specific",
+      "value": "غير معرف"
+    },
+    {
+      "name": "approved",
+      "value": "معتمد"
+    },
+    {
+      "name": "workflowCompleted",
+      "value": "Workflow completed"
+    },
+    {
+      "name": "denied",
+      "value": "مرفوض"
+    },
+    {
+      "name": "name",
+      "value": "وصف"
+    },
+    {
+      "name": "primary",
+      "value": "اساسي"
+    },
+    {
+      "name": "_private",
+      "value": "خاص"
+    },
+    {
+      "name": "contact_number",
+      "value": "رقم الاتصال"
+    },
+    {
+      "name": "extention",
+      "value": "نطاق"
+    },
+    {
+      "name": "allowances_id",
+      "value": "كود البدل"
+    },
+    {
+      "name": "amount",
+      "value": "القيمة"
+    },
+    {
+      "name": "ticket_amount",
+      "value": "قيمة التذكرة"
+    },
+    {
+      "name": "identification_number",
+      "value": "رقم الوثيقة"
+    },
+    {
+      "name": "identification_type",
+      "value": "نوع الوثيقة"
+    },
+    {
+      "name": "issue_agency",
+      "value": "جهة الاصدار"
+    },
+    {
+      "name": "issue_place",
+      "value": "مكان الاصدار"
+    },
+    {
+      "name": "issue_date",
+      "value": "تاريخ الاصدار"
+    },
+    {
+      "name": "end_date",
+      "value": "تاريخ الانتهاء"
+    },
+    {
+      "name": "comment_optional",
+      "value": "التعليق (اختياري)"
+    },
+    {
+      "name": "please_enter_reason_approval",
+      "value": "يرجى ادخال سبب الموافقة"
+    },
+    {
+      "name": "please_enter_reason_reject",
+      "value": "يرجى ادخال سبب الرفض"
+    },
+    {
+      "name": "employee_name",
+      "value": "اسم العامل"
+    },
+    {
+      "name": "send_to",
+      "value": "مرسل الى"
+    },
+    {
+      "name": "send_to_en",
+      "value": "مرسل إلى (En)"
+    },
+    {
+      "name": "send_to_ar",
+      "value": "مرسل إلى (باللغة العربية)"
+    },
+    {
+      "name": "letter_language",
+      "value": "لغة الخطاب"
+    },
+    {
+      "name": "something_went_wrong",
+      "value": "حدث خطاء داخلى يرجي المحاولة مرة اخري"
+    },
+    {
+      "name": "loan_value",
+      "value": "قيمة القرض"
+    },
+    {
+      "name": "deduction_value",
+      "value": "قيمة الإستقطاع"
+    },
+    {
+      "name": "number_of_settelments",
+      "value": "عدد الاقساط"
+    },
+    {
+      "name": "please_enter_valid_loan_value",
+      "value": "يجب ادخال قيمة القرض"
+    },
+    {
+      "name": "Please_select_valid_settelments",
+      "value": "يجب ادخال عدد الاقساط"
+    },
+    {
+      "name": "please_enter_valid_deduction",
+      "value": "يجب ادخال قيمة الاستقطاع"
+    },
+    {
+      "name": "noticce_start_date",
+      "value": "تاريخ بداية شهر الانذار"
+    },
+    {
+      "name": "last_working_dat",
+      "value": "تاريخ اخر يوم عمل"
+    },
+    {
+      "name": "please_select_valid_request_reason",
+      "value": "يجب اختيار كود السبب"
+    },
+    {
+      "name": "excuse_interval",
+      "value": "فترة الاستئذان"
+    },
+    {
+      "name": "english_name",
+      "value": "الاسم بالانجليزي"
+    },
+    {
+      "name": "arabic_name",
+      "value": "الاسم بالعربي"
+    },
+    {
+      "name": "relationship",
+      "value": "صلة القرابة"
+    },
+    {
+      "name": "medical_insurance_cover_status",
+      "value": "حالة تغطية التامين الطبي"
+    },
+    {
+      "name": "ticket_cover",
+      "value": "حالة تغطية التذاكر"
+    },
+    {
+      "name": "account_settings",
+      "value": "اعدادات الحساب"
+    },
+    {
+      "name": "change_password",
+      "value": "تغيير كلمة السر"
+    },
+    {
+      "name": "language",
+      "value": "اللغة"
+    },
+    {
+      "name": "languages",
+      "value": "العربية"
+    },
+    {
+      "name": "app_language",
+      "value": "لغة التطبيق"
+    },
+    {
+      "name": "choose_attachment",
+      "value": "إختيار الملفات"
+    },
+    {
+      "name": "camera_text",
+      "value": "كاميرا"
+    },
+    {
+      "name": "gallery_text",
+      "value": "الأستوديو"
+    },
+    {
+      "name": "file_text",
+      "value": "ملف"
+    },
+    {
+      "name": "en",
+      "value": "EN"
+    },
+    {
+      "name": "ar",
+      "value": "عربي"
+    },
+    {
+      "name": "logout",
+      "value": "تسجيل الخروج"
+    },
+    {
+      "name": "follow_us",
+      "value": "تابعنا"
+    },
+    {
+      "name": "on_facebook",
+      "value": "علي الفيسبوك"
+    },
+    {
+      "name": "on_twitter",
+      "value": "على تويتر"
+    },
+    {
+      "name": "on_google",
+      "value": "على جوجل"
+    },
+    {
+      "name": "on_linkedin",
+      "value": "على لينكد ان"
+    },
+    {
+      "name": "on_youtube",
+      "value": "على اليوتيوب"
+    },
+    {
+      "name": "support",
+      "value": "الدعم"
+    },
+    {
+      "name": "contact_us",
+      "value": "اتصل بنا"
+    },
+    {
+      "name": "send_feedback",
+      "value": "ارسال التعليقات"
+    },
+    {
+      "name": "rate",
+      "value": "تقييم التطبيق"
+    },
+    {
+      "name": "privacy",
+      "value": "الخصوصية"
+    },
+    {
+      "name": "send_push_notifications",
+      "value": "استقبال الإشعارات"
+    },
+    {
+      "name": "please_fill_and_submit_the_following_form_to_change_your_password",
+      "value": "يجب ادخال البيانات الاتية لتغيير كلمة السر"
+    },
+    {
+      "name": "old_password",
+      "value": "كلمة السر القديمة"
+    },
+    {
+      "name": "new_password",
+      "value": "كلمة السر الجديدة"
+    },
+    {
+      "name": "teams",
+      "value": "فريق العمل"
+    },
+    {
+      "name": "pending",
+      "value": "المعلقة"
+    },
+    {
+      "name": "general_or_letter",
+      "value": "General or Letter"
+    },
+    {
+      "name": "overtime_date",
+      "value": "تاريخ الاجر الاضافى"
+    },
+    {
+      "name": "overtime_time",
+      "value": "وقت الاجر الاضافى"
+    },
+    {
+      "name": "course_name",
+      "value": "اسم الدورة"
+    },
+    {
+      "name": "locations",
+      "value": "الموقع"
+    },
+    {
+      "name": "training_interval",
+      "value": "فترة التدريب"
+    },
+    {
+      "name": "fee",
+      "value": "الرسوم"
+    },
+    {
+      "name": "course_type",
+      "value": "نوع الدورة"
+    },
+    {
+      "name": "leave",
+      "value": "اجازة"
+    },
+    {
+      "name": "transaction_date",
+      "value": "تاريخ الحركة"
+    },
+    {
+      "name": "leave_inquiry",
+      "value": "رصيد الإجازات"
+    },
+    {
+      "name": "work_start_date",
+      "value": "تاريخ الإلتحاق"
+    },
+    {
+      "name": "termination_compensation",
+      "value": "تعويض الاقالة"
+    },
+    {
+      "name": "resignation_compensation",
+      "value": "تعويض الإستقالة"
+    },
+    {
+      "name": "leave_amount",
+      "value": "قيمة الاجازة"
+    },
+    {
+      "name": "loan_amount",
+      "value": "قيمة السلف"
+    },
+    {
+      "name": "ticket_value",
+      "value": "قيمة التذكرة"
+    },
+    {
+      "name": "end_value",
+      "value": "القيمة النهائية"
+    },
+    {
+      "name": "eos",
+      "value": "نهاية خدمة"
+    },
+    {
+      "name": "employee_balance",
+      "value": "رصيد الاجازة"
+    },
+    {
+      "name": "bt_coming_soon",
+      "value": "جاري التطوير"
+    },
+    {
+      "name": "deadline",
+      "value": "الموعد النهائي"
+    },
+    {
+      "name": "static_content",
+      "value": "Static Content"
+    },
+    {
+      "name": "user_id",
+      "value": "رقم المستخدم"
+    },
+    {
+      "name": "deduction_date",
+      "value": "تاريخ الاستقطاع"
+    },
+    {
+      "name": "couldnt_fetch_file",
+      "value": "تعذر استعراض الملف"
+    },
+    {
+      "name": "replace",
+      "value": "تبديل"
+    },
+    {
+      "name": "replace_or_delete",
+      "value": "هل ترغب باستبدال الملف اوحذفة ؟"
+    },
+    {
+      "name": "attachment",
+      "value": "المرفقات"
+    },
+    {
+      "name": "view_attachment",
+      "value": "عرض المرفقات"
+    },
+    {
+      "name": "please_select_valid_request_attachment",
+      "value": "يرجى اختيار مرفقات صحيحة"
+    },
+    {
+      "name": "enter_valid_comment",
+      "value": "من فضلك ادخل تعليق"
+    },
+    {
+      "name": "Last_working_date_should_not_less_than_notice_start_date",
+      "value": "تاريخ اخر يوم عمل يجب ان يكون بعد تاريخ بداية شهر الانذار"
+    },
+    {
+      "name": "enter_code",
+      "value": "ادخل الرقم السري المؤقت المرسل على جوالك"
+    },
+    {
+      "name": "code",
+      "value": "رمز التحقق من الهوية"
+    },
+    {
+      "name": "notification_deleted_successfully",
+      "value": "تم مسح الأشعار"
+    },
+    {
+      "name": "are_you_sure_delete",
+      "value": "هل تريد مسح هذا الاشعار ؟"
+    },
+    {
+      "name": "please_add_comment_to_submit",
+      "value": "من فضلك أضف تعليق للإرساله"
+    },
+    {
+      "name": "from_country",
+      "value": "من بلد"
+    },
+    {
+      "name": "from_city",
+      "value": "من مدينة"
+    },
+    {
+      "name": "to_country",
+      "value": "إلى بلد"
+    },
+    {
+      "name": "to_city",
+      "value": "إلى مدينة"
+    },
+    {
+      "name": "periderm_cover",
+      "value": "حالة التغطية"
+    },
+    {
+      "name": "business_trip_interval",
+      "value": "فترة رحلة العمل"
+    },
+    {
+      "name": "perdiem_amunt",
+      "value": "قيمة الانتداب اليومى"
+    },
+    {
+      "name": "visa_expenses",
+      "value": "مصاريف الفيزا"
+    },
+    {
+      "name": "training_expenses",
+      "value": "مصاريف التدريب"
+    },
+    {
+      "name": "expenses",
+      "value": "مصاريف اخري"
+    },
+    {
+      "name": "total_amount",
+      "value": "اجمالى القيمة"
+    },
+    {
+      "name": "has_transportation",
+      "value": "تأمين المواصلات"
+    },
+    {
+      "name": "transportation",
+      "value": "طلب مواصلات"
+    },
+    {
+      "name": "accommodation",
+      "value": "الاقامة"
+    },
+    {
+      "name": "has_accommodation",
+      "value": "تأمين الاقامة"
+    },
+    {
+      "name": "has_meals",
+      "value": "تامين الوجبات"
+    },
+    {
+      "name": "meals",
+      "value": "الوجبات"
+    },
+    {
+      "name": "trip_type",
+      "value": "نوع الرحلة"
+    },
+    {
+      "name": "destination_type",
+      "value": "نوع الوجهة"
+    },
+    {
+      "name": "advance_reference",
+      "value": "مرجع الطلب المسبق"
+    },
+    {
+      "name": "return_date",
+      "value": "تاريخ العودة"
+    },
+    {
+      "name": "return_date2",
+      "value": "تاريخ الإرجاع"
+    },
+    {
+      "name": "please_select_a_valid_country",
+      "value": "يرجي اختيار الدولة"
+    },
+    {
+      "name": "please_enter_valid_amount",
+      "value": "يرجى ادخال مبلغ صحيح"
+    },
+    {
+      "name": "please_enter_valid_from_city",
+      "value": "يرجى ادخال المدينة"
+    },
+    {
+      "name": "please_enter_valid_to_city",
+      "value": "يرجى ادخال مدينة الوجهة"
+    },
+    {
+      "name": "update",
+      "value": "تعديل"
+    },
+    {
+      "name": "english",
+      "value": "English"
+    },
+    {
+      "name": "arabic",
+      "value": "عربي"
+    },
+    {
+      "name": "planning_reference",
+      "value": "مرجع التخطيط"
+    },
+    {
+      "name": "days",
+      "value": "ايام"
+    },
+    {
+      "name": "dashboard",
+      "value": "الرئيسية"
+    },
+    {
+      "name": "count",
+      "value": "عدد"
+    },
+    {
+      "name": "salary",
+      "value": "راتب"
+    },
+    {
+      "name": "balance_leave",
+      "value": "رصيد الاجازة"
+    },
+    {
+      "name": "leave_balance",
+      "value": "رصيد الاجازات"
+    },
+    {
+      "name": "pendingApprovals",
+      "value": "الطلبات المعلقة"
+    },
+    {
+      "name": "UnreadAnnouncement",
+      "value": "غير مقروء"
+    },
+    {
+      "name": "UnreadDocs",
+      "value": "غير مقروء"
+    },
+    {
+      "name": "Announcement",
+      "value": "التعاميم"
+    },
+    {
+      "name": "attendance",
+      "value": "الحضور والانصراف"
+    },
+    {
+      "name": "today",
+      "value": "اليوم"
+    },
+    {
+      "name": "company_name",
+      "value": "اسم الشركة"
+    },
+    {
+      "name": "me",
+      "value": "انا"
+    },
+    {
+      "name": "_public",
+      "value": "عام"
+    },
+    {
+      "name": "medical_insurance",
+      "value": "التامين الطبي"
+    },
+    {
+      "name": "CheckIn",
+      "value": "تسجيل دخول"
+    },
+    {
+      "name": "CheckOut",
+      "value": "تسجيل خروج"
+    },
+    {
+      "name": "mark_as_read",
+      "value": "ضع إشارة مقرؤ"
+    },
+    {
+      "name": "mark_as_unread",
+      "value": "تغير الحالى الى غير مقرؤ"
+    },
+    {
+      "name": "marked_unread",
+      "value": "غير مقرؤ"
+    },
+    {
+      "name": "please_choose_emoji",
+      "value": "يرجى اختيار رمز"
+    },
+    {
+      "name": "choose_emoji_or_comment",
+      "value": "يرجي اختيار رمز او كتابة تعليق"
+    },
+    {
+      "name": "request_number_",
+      "value": "رقم الطلب"
+    },
+    {
+      "name": "from_",
+      "value": "من:"
+    },
+    {
+      "name": "company",
+      "value": "الشركة"
+    },
+    {
+      "name": "id",
+      "value": "المعرف"
+    },
+    {
+      "name": "subject",
+      "value": "الموضوع"
+    },
+    {
+      "name": "due_date",
+      "value": "تاريخ الاستحقاق"
+    },
+    {
+      "name": "due_time",
+      "value": "وقت الاستحقاق"
+    },
+    {
+      "name": "creation_date",
+      "value": "تاريخ الانشاء"
+    },
+    {
+      "name": "creation_time",
+      "value": "وقتالانشاء"
+    },
+    {
+      "name": "approved_successfully",
+      "value": "تم الموافقة بنجاح"
+    },
+    {
+      "name": "req_rejected",
+      "value": "الطلب مرفوض"
+    },
+    {
+      "name": "print",
+      "value": "طباعة"
+    },
+    {
+      "name": "file_not_found",
+      "value": "الملف غير معرف"
+    },
+    {
+      "name": "form_approve_letter_general",
+      "value": "هذا النموذج للموافقة على الطلبات العامة والخطابات"
+    },
+    {
+      "name": "editing_not_available",
+      "value": "التعديل على الطلب غير متاح"
+    },
+    {
+      "name": "send_to_",
+      "value": "موجه الى:"
+    },
+    {
+      "name": "req_date_",
+      "value": "تاريخ الطلب"
+    },
+    {
+      "name": "num_of_days",
+      "value": "عدد الايام:"
+    },
+    {
+      "name": "destination_grp_",
+      "value": "مجموعة الوجهة:"
+    },
+    {
+      "name": "select_valid_time",
+      "value": "يرجى ادخال توقيت صحيح"
+    },
+    {
+      "name": "choose_from_gallery",
+      "value": "الاختيار من الصور"
+    },
+    {
+      "name": "capture_image",
+      "value": "الكامير"
+    },
+    {
+      "name": "upload_file",
+      "value": "إرفاق ملف"
+    },
+    {
+      "name": "are_you_sure_you_want_to_delete_this_request",
+      "value": "هل انت متأكد من حذف السجل؟"
+    },
+    {
+      "name": "are_you_sure_you_want_to_cancel_this_request",
+      "value": "هل انت متأكد من إلغاء السجل؟"
+    },
+    {
+      "name": "NotSubmitted",
+      "value": "غير مرسلة"
+    },
+    {
+      "name": "Submitted",
+      "value": "مرسلة"
+    },
+    {
+      "name": "PendingApproval",
+      "value": "بالموافقة"
+    },
+    {
+      "name": "PendingComplete",
+      "value": "قيد الإستكمال"
+    },
+    {
+      "name": "Approved",
+      "value": "معتمدة"
+    },
+    {
+      "name": "Returned",
+      "value": "مرتجعة"
+    },
+    {
+      "name": "ChangeRequest",
+      "value": "للتعديل"
+    },
+    {
+      "name": "WorkflowCompleted",
+      "value": "مكتملة"
+    },
+    {
+      "name": "Workflow",
+      "value": "سير العمل"
+    },
+    {
+      "name": "Completed",
+      "value": "منتهية"
+    },
+    {
+      "name": "PendingCancellation",
+      "value": "قيد الإلغاء"
+    },
+    {
+      "name": "Cancelled",
+      "value": "ملغية"
+    },
+    {
+      "name": "Denied",
+      "value": "مرفوضة"
+    },
+    {
+      "name": "wrong_credentials",
+      "value": "رقم مستخدم او كلمة السر غير صحيحة"
+    },
+    {
+      "name": "like",
+      "value": "اعجبني"
+    },
+    {
+      "name": "happy",
+      "value": "اسعدني"
+    },
+    {
+      "name": "sad",
+      "value": "احزنني"
+    },
+    {
+      "name": "dislike",
+      "value": "لم يعجبني"
+    },
+    {
+      "name": "love",
+      "value": "احببته"
+    },
+    {
+      "name": "marked_as_read",
+      "value": "مقرؤ"
+    },
+    {
+      "name": "project",
+      "value": "مشروع"
+    },
+    {
+      "name": "manager_requests",
+      "value": "طلبات المديرين"
+    },
+    {
+      "name": "mng_disciplinary_request",
+      "value": "طلب\\nتأديبي"
+    },
+    {
+      "name": "disciplinary_request",
+      "value": "طلب تأديبي"
+    },
+    {
+      "name": "error",
+      "value": "رسالة خطأ"
+    },
+    {
+      "name": "gross_salary",
+      "value": "الراتب الإجمالي"
+    },
+    {
+      "name": "benefits_details",
+      "value": "الراتب و البدلات"
+    },
+    {
+      "name": "benefits_id",
+      "value": "معرف المزايا"
+    },
+    {
+      "name": "total_deduction",
+      "value": "إجمالي الخصم"
+    },
+    {
+      "name": "net_salary",
+      "value": "صافي الراتب"
+    },
+    {
+      "name": "entry_type",
+      "value": "نوع الإدخال"
+    },
+    {
+      "name": "hijri_end_date",
+      "value": "تاريخ الإنتهاء الهجري"
+    },
+    {
+      "name": "hijri_issue_date",
+      "value": "تاريخ الاصدار الهجري"
+    },
+    {
+      "name": "pay_roll",
+      "value": "كشوف المرتبات"
+    },
+    {
+      "name": "payment_card",
+      "value": "بطاقة الدفع"
+    },
+    {
+      "name": "dependent_id",
+      "value": "رقم المعال"
+    },
+    {
+      "name": "my_team",
+      "value": "فريق العمل"
+    },
+    {
+      "name": "educational",
+      "value": "التعليم"
+    },
+    {
+      "name": "courses_list",
+      "value": "الدورات التدريبية"
+    },
+    {
+      "name": "certificate_list",
+      "value": "الشهادات"
+    },
+    {
+      "name": "skills_list",
+      "value": "المهارات"
+    },
+    {
+      "name": "employee_team",
+      "value": "إستعلام ارصدة الاجازات"
+    },
+    {
+      "name": "eos_balance",
+      "value": "رصيد نهاية الخدمة"
+    },
+    {
+      "name": "average",
+      "value": "معدل"
+    },
+    {
+      "name": "start_date",
+      "value": "تاريخ البدء"
+    },
+    {
+      "name": "place",
+      "value": "المكان"
+    },
+    {
+      "name": "hour_type",
+      "value": "نوع الساعة"
+    },
+    {
+      "name": "certificate_type",
+      "value": "نوع الشهادة"
+    },
+    {
+      "name": "expiry_date",
+      "value": "تاريخ إنتهاء الصلاحية"
+    },
+    {
+      "name": "renewal",
+      "value": "طلب التجديد"
+    },
+    {
+      "name": "req_training",
+      "value": "طلب التدريب"
+    },
+    {
+      "name": "repeat",
+      "value": "تكرار"
+    },
+    {
+      "name": "note",
+      "value": "ملحوظة"
+    },
+    {
+      "name": "skill_title",
+      "value": "المهارة"
+    },
+    {
+      "name": "rating_level",
+      "value": "مستوي التقييم"
+    },
+    {
+      "name": "experience",
+      "value": "الخبرات"
+    },
+    {
+      "name": "rating_level_type",
+      "value": "نوع مستوي التقييم"
+    },
+    {
+      "name": "policy_number",
+      "value": "رقم اللائحة"
+    },
+    {
+      "name": "card_number",
+      "value": "رقم البطاقة"
+    },
+    {
+      "name": "level",
+      "value": "مستوي"
+    },
+    {
+      "name": "card_holder",
+      "value": "حامل البطاقة"
+    },
+    {
+      "name": "Dependent_name",
+      "value": "اسم المعال"
+    },
+    {
+      "name": "request_id",
+      "value": "نوع الطلب"
+    },
+    {
+      "name": "disciplinary_worker",
+      "value": "اختر الموظف"
+    },
+    {
+      "name": "discipline_code",
+      "value": "قانون الانضباط"
+    },
+    {
+      "name": "wife",
+      "value": "زوجة"
+    },
+    {
+      "name": "son",
+      "value": "ابن"
+    },
+    {
+      "name": "father",
+      "value": "اب"
+    },
+    {
+      "name": "daughter",
+      "value": "ابنة"
+    },
+    {
+      "name": "mother",
+      "value": "ام"
+    },
+    {
+      "name": "brother",
+      "value": "اخ"
+    },
+    {
+      "name": "sister",
+      "value": "اخت"
+    },
+    {
+      "name": "please_select_action",
+      "value": "اختار طلبك"
+    },
+    {
+      "name": "select_return_date",
+      "value": "اختار تاريخ العودة"
+    },
+    {
+      "name": "return_request",
+      "value": "طلب عودة"
+    },
+    {
+      "name": "modify_request",
+      "value": "طلب تعديل"
+    },
+    {
+      "name": "select_dependent",
+      "value": "اختيار"
+    },
+    {
+      "name": "please_set_location",
+      "value": "من فضلك اختار الموقع لتسجيل دخولك"
+    },
+    {
+      "name": "please_check_out_first",
+      "value": "من فضلك سجل خروجك اولا"
+    },
+    {
+      "name": "update_pass",
+      "value": "تحديث كلمة السر"
+    },
+    {
+      "name": "type_old_pass",
+      "value": "برجاء كتابة كلمة السر القديمة"
+    },
+    {
+      "name": "type_new_password",
+      "value": "برجاء كتابة كلمة السر الجديدة"
+    },
+    {
+      "name": "confirm_new_pass",
+      "value": "برجاء إعادة كتابة كلمة السر الجديدة"
+    },
+    {
+      "name": "cant_detect_location",
+      "value": "لم نتمكن من تحديد موقع برجاء اعادة المحاولة"
+    },
+    {
+      "name": "failed_to_connect",
+      "value": "Failed to connect to server"
+    },
+    {
+      "name": "welcome_back",
+      "value": "مرحبا بعودتك"
+    },
+    {
+      "name": "accept_permissions",
+      "value": "You have to accept to enjoy all app\\'s services!"
+    },
+    {
+      "name": "enable_gps",
+      "value": "Please enable GPS to detect your location"
+    },
+    {
+      "name": "see_all",
+      "value": "عرض الكل"
+    },
+    {
+      "name": "attached_file",
+      "value": "ملفات مرفقة"
+    },
+    {
+      "name": "last_location",
+      "value": "اخر نوقع"
+    },
+    {
+      "name": "check_in_at",
+      "value": "توقيت الدخول"
+    },
+    {
+      "name": "check_out_at",
+      "value": "توقيت الخروج"
+    },
+    {
+      "name": "requests",
+      "value": "requests"
+    },
+    {
+      "name": "available_locations",
+      "value": "المواقع المتاحة"
+    },
+    {
+      "name": "change_password_",
+      "value": "تغيير كلمة السر"
+    },
+    {
+      "name": "push_notifications",
+      "value": "التنبيهات"
+    },
+    {
+      "name": "other",
+      "value": "اخري"
+    },
+    {
+      "name": "faq",
+      "value": "FAQ"
+    },
+    {
+      "name": "privacy_amp_terms_of_use",
+      "value": "الخصوصية وشروط الاستخدام"
+    },
+    {
+      "name": "services",
+      "value": "الخدمات الذاتية"
+    },
+    {
+      "name": "leave_requests_",
+      "value": "Leave Requests"
+    },
+    {
+      "name": "leave_encashment_test",
+      "value": "طلب صرف الإجازة"
+    },
+    {
+      "name": "leave_planning_test",
+      "value": "طلب تخطيط الإجازة"
+    },
+    {
+      "name": "ticket_encashment_",
+      "value": "صرف التذاكر"
+    },
+    {
+      "name": "absence_request",
+      "value": "طلب\\nالغياب"
+    },
+    {
+      "name": "ot_request",
+      "value": "طلب العمل\\nالإضافي"
+    },
+    {
+      "name": "periodic_excuse_",
+      "value": "طلب إستئذان دوري"
+    },
+    {
+      "name": "letter_req",
+      "value": "طلب خطاب"
+    },
+    {
+      "name": "medical_request",
+      "value": "طلبات التأمين الطبي"
+    },
+    {
+      "name": "grievance_req",
+      "value": "طلب التظلم"
+    },
+    {
+      "name": "transportation_req",
+      "value": "طلب\\nالنقل"
+    },
+    {
+      "name": "filter",
+      "value": "filter"
+    },
+    {
+      "name": "select_date",
+      "value": "select date"
+    },
+    {
+      "name": "select_time",
+      "value": "Select time"
+    },
+    {
+      "name": "from_time",
+      "value": "From time"
+    },
+    {
+      "name": "to_time",
+      "value": "To time"
+    },
+    {
+      "name": "search",
+      "value": "بحث"
+    },
+    {
+      "name": "reactions",
+      "value": "Reactions"
+    },
+    {
+      "name": "position",
+      "value": "المنصب"
+    },
+    {
+      "name": "competencies",
+      "value": "الكفاءات"
+    },
+    {
+      "name": "attendance_log_",
+      "value": "سجل الحضور"
+    },
+    {
+      "name": "net_earnings",
+      "value": "Net Earnings"
+    },
+    {
+      "name": "current_year",
+      "value": "السنة الحالية"
+    },
+    {
+      "name": "year_to_date",
+      "value": "من بداية العام حتي تاريخه"
+    },
+    {
+      "name": "total_gross",
+      "value": "Total Gross"
+    },
+    {
+      "name": "share",
+      "value": "share"
+    },
+    {
+      "name": "attended",
+      "value": "Attended"
+    },
+    {
+      "name": "public_holidays",
+      "value": "Public holidays"
+    },
+    {
+      "name": "overtime_",
+      "value": "Overtime"
+    },
+    {
+      "name": "taken",
+      "value": "Taken"
+    },
+    {
+      "name": "lost",
+      "value": "Lost"
+    },
+    {
+      "name": "team_pending_req",
+      "value": "Team pending requests"
+    },
+    {
+      "name": "members",
+      "value": "Members"
+    },
+    {
+      "name": "pick_a_date",
+      "value": "إختيار التاريخ"
+    },
+    {
+      "name": "invalid_date",
+      "value": "invalid Date"
+    },
+    {
+      "name": "update_language",
+      "value": "تغيير لغة"
+    },
+    {
+      "name": "you_have_pending_requests",
+      "value": "You have Pending Requests"
+    },
+    {
+      "name": "pending_requests",
+      "value": "يوجد لديك طلبات لم يتم الموافقة عليها"
+    },
+    {
+      "name": "check_them",
+      "value": "برجاء المراجعة"
+    },
+    {
+      "name": "personnel_info",
+      "value": "المعلومات الشخصية"
+    },
+    {
+      "name": "bank_title",
+      "value": "البنك"
+    },
+    {
+      "name": "job_information",
+      "value": "معلومات الوظيفة"
+    },
+    {
+      "name": "main_information",
+      "value": "المعلومات الرئيسية"
+    },
+    {
+      "name": "company_password",
+      "value": "كلمة السر"
+    },
+    {
+      "name": "facebook",
+      "value": "Facebook"
+    },
+    {
+      "name": "twitter",
+      "value": "Twitter"
+    },
+    {
+      "name": "linkedIn",
+      "value": "LinkedIn"
+    },
+    {
+      "name": "position_title",
+      "value": "المسمى الوظيفي"
+    },
+    {
+      "name": "loaned_date",
+      "value": "تاريخ إستلام العهد"
+    },
+    {
+      "name": "allowance_title",
+      "value": "عنوان البدل"
+    },
+    {
+      "name": "amount_USD",
+      "value": "المبلغ بالدولار الأمريكي"
+    },
+    {
+      "name": "rate_average",
+      "value": "المعدل المتوسط"
+    },
+    {
+      "name": "secondary_focus",
+      "value": "التركيز الثانوي"
+    },
+    {
+      "name": "university",
+      "value": "الجامعة"
+    },
+    {
+      "name": "instituting",
+      "value": "التأسيس"
+    },
+    {
+      "name": "duration_of",
+      "value": "المدة"
+    },
+    {
+      "name": "unit",
+      "value": "الوحدة"
+    },
+    {
+      "name": "scale",
+      "value": "المقياس"
+    },
+    {
+      "name": "credit_completed",
+      "value": "الرصيد المكتمل"
+    },
+    {
+      "name": "credit_hours",
+      "value": "رصيد الساعات"
+    },
+    {
+      "name": "comments",
+      "value": "التعليقات"
+    },
+    {
+      "name": "new_request",
+      "u": "طلب جديد"
+    },
+    {
+      "name": "opening",
+      "value": "الإفتتاح"
+    },
+    {
+      "name": "accrued",
+      "value": "المخصص"
+    },
+    {
+      "name": "usage",
+      "value": "المستنفذ"
+    },
+    {
+      "name": "actual",
+      "value": "Actual"
+    },
+    {
+      "name": "target",
+      "value": "Target"
+    },
+    {
+      "name": "level_date",
+      "value": "تاريخ التقييم"
+    },
+    {
+      "name": "attachments",
+      "value": "attachments"
+    },
+    {
+      "name": "no_attachments",
+      "value": "لا يوجد مرفقات"
+    },
+    {
+      "name": "edit_like",
+      "value": "تفاعل"
+    },
+    {
+      "name": "type_your_comment",
+      "value": "يرجي كتابة التعليق"
+    },
+    {
+      "name": "Attendance_summary",
+      "value": "ملخص الحضور"
+    },
+    {
+      "name": "absent",
+      "value": "الغياب"
+    },
+    {
+      "name": "delay_hours",
+      "value": "ساعات التأخير"
+    },
+    {
+      "name": "early_leave_hours",
+      "value": "خروج مبكر"
+    },
+    {
+      "name": "current_month",
+      "value": "الشهر الحالي"
+    },
+    {
+      "name": "delay",
+      "value": "التأخيرات"
+    },
+    {
+      "name": "present",
+      "value": "الحضور"
+    },
+    {
+      "name": "missing_punch",
+      "value": "بصمات مفقودة"
+    },
+    {
+      "name": "early",
+      "value": "الإنصراف المبكر"
+    },
+    {
+      "name": "new_overtime",
+      "value": "الإضافي"
+    },
+    {
+      "name": "last_month",
+      "value": "الشهر الماضي"
+    },
+    {
+      "name": "day",
+      "value": "يوم"
+    },
+    {
+      "name": "my_requests",
+      "value": "طلباتي"
+    },
+    {
+      "name": "all",
+      "value": "الكل"
+    },
+    {
+      "name": "business",
+      "value": "العمل"
+    },
+    {
+      "name": "loan",
+      "value": "سلفة"
+    },
+    {
+      "name": "team_count",
+      "value": "عدد فريق العمل"
+    },
+    {
+      "name": "please_add_comment",
+      "value": "يرجى إدخال تعليق"
+    },
+    {
+      "name": "postal",
+      "value": "الرقم البريدي"
+    },
+    {
+      "name": "country",
+      "value": "البلد"
+    },
+    {
+      "name": "register_return",
+      "value": "تسجيل عودة"
+    },
+    {
+      "name": "new_leave_request",
+      "value": "الإجازات"
+    },
+    {
+      "name": "personal_credentials",
+      "value": "بيانات الدخول"
+    },
+    {
+      "name": "card_attachments",
+      "value": "مرفقات"
+    },
+    {
+      "name": "nationality",
+      "value": "الجنسية"
+    },
+    {
+      "name": "last_year",
+      "value": "السنة السابقة"
+    },
+    {
+      "name": "please_enter_otp",
+      "value": "من فضلك ادخل كود OTP"
+    },
+    {
+      "name": "january",
+      "value": "يناير"
+    },
+    {
+      "name": "february",
+      "value": "فبراير"
+    },
+    {
+      "name": "march",
+      "value": "مارس"
+    },
+    {
+      "name": "april",
+      "value": "أبريل"
+    },
+    {
+      "name": "may",
+      "value": "مايو"
+    },
+    {
+      "name": "june",
+      "value": "يونيو"
+    },
+    {
+      "name": "july",
+      "value": "يوليو"
+    },
+    {
+      "name": "august",
+      "value": "أغسطس"
+    },
+    {
+      "name": "september",
+      "value": "سبتمبر"
+    },
+    {
+      "name": "october",
+      "value": "أكنوبر"
+    },
+    {
+      "name": "november",
+      "value": "نوفمبر"
+    },
+    {
+      "name": "december",
+      "value": "ديسمبر"
+    },
+    {
+      "name": "attached_1",
+      "value": "المرفق(1)"
+    },
+    {
+      "name": "privacy_and_terms",
+      "value": "الخصوصية و شروط الاستخدام"
+    },
+    {
+      "name": "privacy_policy",
+      "value": "سياسة الخصوصية"
+    },
+    {
+      "name": "terms_of_use",
+      "value": "شروط الأستخدام"
+    },
+    {
+      "name": "time_spent",
+      "value": "\"الوقت المنقضي : \""
+    },
+    {
+      "name": "pick_time",
+      "value": "اختر وقت"
+    },
+    {
+      "name": "update_",
+      "value": "تحديث"
+    },
+    {
+      "name": "ReasonCode",
+      "value": "اختيار كود السبب"
+    },
+    {
+      "name": "chooseLetter",
+      "value": "اختر نوع الخطاب"
+    },
+    {
+      "name": "alternativeWorker",
+      "value": "اختر الموظف البديل"
+    },
+    {
+      "name": "TYPE_PICKER",
+      "value": "اختر النوع"
+    },
+    {
+      "name": "END_OF_CONTRACT_PICKER",
+      "value": "اختر إنهاء العقد"
+    },
+    {
+      "name": "RESIGNATION_PICKER",
+      "value": "اختر استقالة"
+    },
+    {
+      "name": "PLANNING_REFERENCE_PICKER",
+      "value": "اختر مرجع التخطيط"
+    },
+    {
+      "name": "DESTINATION_GRP_PICKER",
+      "value": "اختر مجموعة الوجهة"
+    },
+    {
+      "name": "COVER_PICKER",
+      "value": "اختر حالة التحمل"
+    },
+    {
+      "name": "ADVANCED_REFERENCE_PICKER",
+      "value": "اختر مرجع الطلب المسبق"
+    },
+    {
+      "name": "COURSE_TYPE_PICKER",
+      "value": "اختر نوع الدورة التدريبية"
+    },
+    {
+      "name": "COURSE_LOCATION_PICKER",
+      "value": "اختر موقع الدورة التدريبية"
+    },
+    {
+      "name": "SEND_TO_ArC",
+      "value": "اختر الجهه المرسل لها بالعربي"
+    },
+    {
+      "name": "SEND_TO_EnC",
+      "value": "اختر الجهه المرسل لهابالإنجليزية"
+    },
+    {
+      "name": "AIRLINESC",
+      "value": "اختر الخطوط الجوية"
+    },
+    {
+      "name": "Vehicles",
+      "value": "اختر نوع السيارة"
+    },
+    {
+      "name": "REQUEST_ID_PICKER",
+      "value": "اختر معرف الطلب"
+    },
+    {
+      "name": "choose_employee",
+      "value": "اختر الموظف"
+    },
+    {
+      "name": "ChooseProject",
+      "value": "اختر مشروع"
+    },
+    {
+      "name": "select_dependents",
+      "value": "اختر المعالين"
+    },
+    {
+      "name": "my_business_info",
+      "value": "معلوماتي الشخصية"
+    },
+    {
+      "name": "initializing_session",
+      "value": "Initializing session"
+    },
+    {
+      "name": "continue_",
+      "value": "استمرار"
+    },
+    {
+      "name": "confirmation_message",
+      "value": "رسالة تأكيد"
+    },
+    {
+      "name": "ok_",
+      "value": "انهاء"
+    },
+    {
+      "name": "please_select_vehicle_type",
+      "value": "من فضلك اختر نوع السيارة"
+    },
+    {
+      "name": "empty_list",
+      "value": "قائمة فارغة"
+    },
+    {
+      "name": "select_language",
+      "value": "من فضلك اختار اللغة"
+    },
+    {
+      "name": "request_date",
+      "value": "تاريخ الطلب"
+    },
+    {
+      "name": "request_status",
+      "value": "حالة الطلب"
+    },
+    {
+      "name": "request_visa",
+      "value": "Request Visa"
+    },
+    {
+      "name": "warning_message",
+      "value": "رسالة تحذير"
+    },
+    {
+      "name": "rejected",
+      "value": "مرفوض"
+    },
+    {
+      "name": "letter_valid_to",
+      "value": "خطاب صالح حتى"
+    },
+    {
+      "name": "print_passport_no",
+      "value": "اطبع رقم الباسبور"
+    },
+    {
+      "name": "require_attestation",
+      "value": "تتطلب تصديق"
+    },
+    {
+      "name": "qr_letter",
+      "value": "كود الخطاب"
+    },
+    {
+      "name": "letter_valid",
+      "value": "الخطاب صالح حتي"
+    },
+    {
+      "name": "please_enter_destination_country",
+      "value": "برجاء ادخال الدولة المتجه اليها"
+    },
+    {
+      "name": "add_num_of_tickets",
+      "value": "برجاء إدخال عدد التذاكر"
+    },
+    {
+      "name": "enter_no_of_days",
+      "value": "برجاء إدخال عدد الأيام"
+    },
+    {
+      "name": "enter_comapny_config",
+      "value": "من فضلك سجل اعدادات الشركة اولاً"
+    },
+    {
+      "name": "company_configuration",
+      "value": "اعدادات الشركة"
+    },
+    {
+      "name": "confirm",
+      "value": "تأكيد"
+    },
+    {
+      "name": "ApprovedEarlyLeaveHours",
+      "value": "إنصراف معتمد"
+    },
+    {
+      "name": "AllowedLeaveHours",
+      "value": "إنصراف مسموح"
+    },
+    {
+      "name": "ApprovedLetness",
+      "value": "تأخير معتمد"
+    },
+    {
+      "name": "AllowedLetness",
+      "value": "تأخير مسموح"
+    },
+    {
+      "name": "are_you_sure_Logout",
+      "value": "هل انت متأكد من تسجيل الخروج؟"
+    },
+    {
+      "name": "messageLogout",
+      "value": "انت على وشك الخروج من التطبيق"
+    },
+    {
+      "name": "DelayHours",
+      "value": "صافى التأخير"
+    },
+    {
+      "name": "NetEarlyLeaveHours",
+      "value": "صافى الإنصراف"
+    },
+    {
+      "name": "CheckinLog",
+      "value": "الدخول"
+    },
+    {
+      "name": "CheckoutLog",
+      "value": "الخروج"
+    },
+    {
+      "name": "resubmit",
+      "value": "اعد الارسال"
+    },
+    {
+      "name": "recall",
+      "value": "إسترجاع الطلب"
+    },
+    {
+      "name": "otp_long_description",
+      "value": "لقد قمنا بأرسال الرقم السري المتغير لرقم الهاتف الخاص بك, من فضلك ادخل الرقم للاستمرار"
+    },
+    {
+      "name": "faceid_touchid",
+      "value": "معرف الوجه / معرف البصمه"
+    },
+    {
+      "name": "please_setup_device_biometrics",
+      "value": "من فضلك قم بتفعيل بصمة الوجه او الاصبع او رقم سري لتفعيل هذه الخاصية"
+    },
+    {
+      "name": "biometric_authentication",
+      "value": "Biometric Authentication"
+    },
+    {
+      "name": "login_using_biometric_authentication",
+      "value": "Login using biometric authentication"
+    },
+    {
+      "name": "choose_way_to_contact_with_team",
+      "value": "اختر طريقة للتواصل مع الفريق"
+    },
+    {
+      "name": "callMicrosoftTeams",
+      "value": "اتصل Microsoft teams"
+    },
+    {
+      "name": "chatMicrosoftTeams",
+      "value": "دردشة Microsoft teams"
+    },
+    {
+      "name": "sign_in_microsoft",
+      "value": "تسجيل الدخول باستخدام Microsoft"
+    },
+    {
+      "name": "loginMicrosoftTitle",
+      "value": "تسجيل الدخول إلى Microsoft"
+    },
+    {
+      "name": "loginMicrosoftText",
+      "value": "الرجاء الضغط على الزر لتسجيل الدخول إلى حسابك في Microsoft"
+    },
+    {
+      "name": "type_your_code",
+      "value": "ادخل الكود هنا"
+    }
   ]
 }
