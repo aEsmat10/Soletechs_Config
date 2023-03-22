@@ -353,31 +353,31 @@
     },
     {
       "name": "leave_requests",
-      "value": "طلبات\\nالاجازات"
+      "value": "طلبات\nالاجازات"
     },
     {
       "name": "ticket_requests",
-      "value": "طلب\\nتذكرة"
+      "value": "طلب\nتذكرة"
     },
     {
       "name": "general_requests",
-      "value": "طلب\\nعام"
+      "value": "طلب\nعام"
     },
     {
       "name": "loan_requests",
-      "value": "طلب\\nقرض"
+      "value": "طلب\nقرض"
     },
     {
       "name": "eos_requests",
-      "value": "طلب نهاية\\nالخدمة"
+      "value": "طلب نهاية\nالخدمة"
     },
     {
       "name": "business_trip_requests",
-      "value": "رحلة\\nعمل"
+      "value": "رحلة\nعمل"
     },
     {
       "name": "excuse_requests",
-      "value": "طلب\\nإستئذان"
+      "value": "طلب\nإستئذان"
     },
     {
       "name": "overtime_requests",
@@ -389,7 +389,7 @@
     },
     {
       "name": "training_requests",
-      "value": "طلب\\nتدريب"
+      "value": "طلب\nتدريب"
     },
     {
       "name": "leave_request",
@@ -453,15 +453,15 @@
     },
     {
       "name": "leave_Encashment",
-      "value": "طلب صرف\\nالإجازة"
+      "value": "طلب صرف\nالإجازة"
     },
     {
       "name": "leave_planning",
-      "value": "طلب تخطيط\\nالإجازة"
+      "value": "طلب تخطيط\nالإجازة"
     },
     {
       "name": "ticket_Encashment",
-      "value": "صرف\\nالتذاكر"
+      "value": "صرف\nالتذاكر"
     },
     {
       "name": "absence",
@@ -473,7 +473,7 @@
     },
     {
       "name": "periodic_excuse",
-      "value": "طلب استئذان\\nدوري"
+      "value": "طلب استئذان\nدوري"
     },
     {
       "name": "training",
@@ -489,15 +489,15 @@
     },
     {
       "name": "letter",
-      "value": "طلب\\nخطاب"
+      "value": "طلب\nخطاب"
     },
     {
       "name": "medical",
-      "value": "طلب تأمين\\nطبي"
+      "value": "طلب تأمين\nطبي"
     },
     {
       "name": "grievance",
-      "value": "طلب\\nتظلم"
+      "value": "طلب\nتظلم"
     },
     {
       "name": "leave_request_description",
@@ -753,7 +753,7 @@
     },
     {
       "name": "month_year",
-      "value": "شهر\\سنة"
+      "value": "شهر\سنة"
     },
     {
       "name": "year",
@@ -2125,7 +2125,7 @@
     },
     {
       "name": "mng_disciplinary_request",
-      "value": "طلب\\nتأديبي"
+      "value": "طلب\nتأديبي"
     },
     {
       "name": "disciplinary_request",
@@ -2381,7 +2381,7 @@
     },
     {
       "name": "accept_permissions",
-      "value": "You have to accept to enjoy all app\\'s services!"
+      "value": "You have to accept to enjoy all app\'s services!"
     },
     {
       "name": "enable_gps",
@@ -2457,11 +2457,11 @@
     },
     {
       "name": "absence_request",
-      "value": "طلب\\nالغياب"
+      "value": "طلب\nالغياب"
     },
     {
       "name": "ot_request",
-      "value": "طلب العمل\\nالإضافي"
+      "value": "طلب العمل\nالإضافي"
     },
     {
       "name": "periodic_excuse_",
@@ -2481,7 +2481,7 @@
     },
     {
       "name": "transportation_req",
-      "value": "طلب\\nالنقل"
+      "value": "طلب\nالنقل"
     },
     {
       "name": "filter",
